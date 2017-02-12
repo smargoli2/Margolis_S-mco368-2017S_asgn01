@@ -1,0 +1,5 @@
+C:\Users\Sora Malka.LAPTOP-BV655DPN\Documents\Visual Studio 2015\Projects\Asgn01\EigibilityClass\bin\Debug\EigibilityClass.dll
+C:\Users\Sora Malka.LAPTOP-BV655DPN\Documents\Visual Studio 2015\Projects\Asgn01\EigibilityClass\bin\Debug\EigibilityClass.pdb
+C:\Users\Sora Malka.LAPTOP-BV655DPN\Documents\Visual Studio 2015\Projects\Asgn01\EigibilityClass\obj\Debug\EigibilityClass.csprojResolveAssemblyReference.cache
+C:\Users\Sora Malka.LAPTOP-BV655DPN\Documents\Visual Studio 2015\Projects\Asgn01\EigibilityClass\obj\Debug\EigibilityClass.dll
+C:\Users\Sora Malka.LAPTOP-BV655DPN\Documents\Visual Studio 2015\Projects\Asgn01\EigibilityClass\obj\Debug\EigibilityClass.pdb
